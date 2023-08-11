@@ -2,8 +2,8 @@
 <h3> <ins>  The start of a D&amp;D map builder.  </ins></h3>
 <h3> <ins> To do:</ins></h3>
 <ul> 
-  <li> add different shapes.</li>
+  <li> Add different shapes.</li>
   <li> Allow user to make own shapes </li>
-  <li> colour schemes </li>
+  <li> Colour schemes </li>
   <li> add character positions </li>
 </ul>
