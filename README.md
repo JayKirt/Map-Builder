@@ -4,6 +4,6 @@
 <ul> 
   <li>Add different shapes.</li>
   <li> Allow user to make own shapes</li>
-  <li> Colour schemes </li>
+  <li> Colour schemes</li>
   <li> add character positions</li>
 </ul>
